@@ -17,3 +17,6 @@ Images from a person’s profile are not downloaded to the local disk, but secur
 Posts and tweets are downloaded and stored locally for more comprehensive analysis. Measures are being put in place to ensure that any confidential data (Phone number, Unique ID issued by the Govt etc.) is erased.
  
 User must provide the access to the profile every time an analysis is to be run. User can view the date and time of access via the social site’s activity panel / dashboard and if necessary, can revoke the authorization and block any future analysis.
+
+### Note:
+This project is being pursued as an academic project at Manipal University. The code, it's results and other resources remain under supervision and is not intended to be duplicated or used without prior permission.
